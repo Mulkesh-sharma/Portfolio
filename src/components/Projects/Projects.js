@@ -6,6 +6,7 @@ import Kfc from "../../Assets/Projects/Kfc.png";
 import Skinstore from "../../Assets/Projects/Skinstore.png";
 import bigbasket1 from "../../Assets/Projects/bigbasket2.png";
 import bigbasket2 from "../../Assets/Projects/bigbasket1.png";
+import bewakoof from "../../Assets/bewakoof.png";
 
 function Projects() {
   return (
@@ -35,18 +36,18 @@ function Projects() {
               imgPath={bigbasket2}
               isBlog={false}
               title="Bigbasket2"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="Created a website using dom manipulation using html css and javascript , a shopping website for groceries."
               ghLink="https://github.com/Mulkesh-sharma/BigbasketClone"
               demoLink="https://bigbasket12321.netlify.app/"
             />
           </Col>
 
-          <Col md={5} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bigbasket2}
+              imgPath={bewakoof}
               isBlog={false}
               title="Bewakoof"
-              description="My personal blog page build with React.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="I have created shopping website which is build with React.js and Tailwind Css which takes the content from makdown files and renders it using React.js. Supports dark mode and easy to write blogs using markdown."
               ghLink="https://github.com/Mulkesh-sharma/Bewakoof-cl"
               demoLink="https://bewakoof-sl.netlify.app/"
             />
