@@ -41,6 +41,17 @@ function Projects() {
             />
           </Col>
 
+          <Col md={5} className="project-card">
+            <ProjectCard
+              imgPath={bigbasket2}
+              isBlog={false}
+              title="Bewakoof"
+              description="My personal blog page build with React.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              ghLink="https://github.com/Mulkesh-sharma/Bewakoof-cl"
+              demoLink="https://bewakoof-sl.netlify.app/"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bigbasket1}
