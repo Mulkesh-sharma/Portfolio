@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0df3df25.css",
+    "main.js": "/static/js/main.0c75277a.js",
+    "static/js/453.5d79306b.chunk.js": "/static/js/453.5d79306b.chunk.js",
+    "static/media/Kfc.png": "/static/media/Kfc.c72e02475cf69bb7ab99.png",
+    "static/media/bewakoof.png": "/static/media/bewakoof.ead25eedfd39080e5a89.png",
+    "static/media/bigbasket1.png": "/static/media/bigbasket1.f531efee8450852ca61b.png",
+    "static/media/Skinstore.png": "/static/media/Skinstore.7ee9666cbabbf85f8dc5.png",
+    "static/media/bigbasket2.png": "/static/media/bigbasket2.242921fc53b3b000b72f.png",
+    "static/media/Mulkesh_sharma_resume.pdf": "/static/media/Mulkesh_sharma_resume.5d54aed806c39cee5312.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.0df3df25.css.map": "/static/css/main.0df3df25.css.map",
+    "main.0c75277a.js.map": "/static/js/main.0c75277a.js.map",
+    "453.5d79306b.chunk.js.map": "/static/js/453.5d79306b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df3df25.css",
+    "static/js/main.0c75277a.js"
+  ]
+}
